@@ -1,0 +1,1 @@
+/* Secondary parachute actuator placeholder. */

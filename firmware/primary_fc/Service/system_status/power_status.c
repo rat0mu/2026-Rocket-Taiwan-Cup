@@ -1,0 +1,1 @@
+/* Power status placeholder. */
