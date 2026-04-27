@@ -1,4 +1,4 @@
-27226124206703908
+27229664922294920
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,20 @@ audio belton reverb
 0
 7
 7
+BMI088
+PQFN50P450X300X100-16N
+
+
+0
+16
+16
+BMP390L
+XDCR_BMP390L
+
+
+0
+10
+10
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -62194,6 +62208,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+E22-900T22S
+E22-900T22S
+
+
+0
+22
+22
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -63272,6 +63293,13 @@ GDT 3R-6
 0
 3
 3
+H3LIS331DL
+QFN300X300X100-16N
+
+
+0
+16
+16
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -71805,34 +71833,20 @@ Yellow 5381 Series LED
 0
 2
 2
-Lumina et Umbrae
-ISP_Logo
+LR1121IMLTRT
+QFN50P500X500X100-33N
 
 
 0
-0
-0
-Lumina et Umbrae
-Logo
+33
+33
+MPXV2202DPT1
+XDCR_MPXV2202DPT1
 
 
 0
-0
-0
-Lumina et Umbrae
-Logo3
-
-
-0
-0
-0
-Lumina et Umbrae
-logo2
-
-
-0
-0
-0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
