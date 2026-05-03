@@ -14444,7 +14444,7 @@
 				)
 			)
 		)
-		(property "Value" "BMP390L"
+		(property "Value" "BMP388"
 			(at 267.97 193.548 0)
 			(effects
 				(font

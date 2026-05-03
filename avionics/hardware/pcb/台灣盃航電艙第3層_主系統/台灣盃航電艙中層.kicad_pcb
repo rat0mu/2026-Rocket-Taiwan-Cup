@@ -4521,7 +4521,7 @@
 				)
 			)
 		)
-		(property "Value" "BMP390L"
+		(property "Value" "BMP388"
 			(at 1.1884 1.5532 0)
 			(layer "F.Fab")
 			(uuid "c941fbc3-0315-4a00-88b0-28025d820f4f")

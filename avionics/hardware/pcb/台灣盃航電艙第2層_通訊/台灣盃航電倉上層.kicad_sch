@@ -8166,7 +8166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical"
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-11_Vertical"
 			(at 177.8 54.61 0)
 			(effects
 				(font
@@ -9516,7 +9516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical"
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-11_Vertical"
 			(at 149.86 73.66 0)
 			(effects
 				(font
@@ -9918,7 +9918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "E22-900T22S:E22-900T22S"
+		(property "Footprint" "E22-900T22S:PE22-230T22S"
 			(at 219.71 27.94 0)
 			(effects
 				(font
