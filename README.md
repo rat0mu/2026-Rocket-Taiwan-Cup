@@ -87,12 +87,9 @@ See `docs/flight_state_machine.md`.
 - Improved fault detection
 - Ground station UI enhancement
 - Flight data visualization tools
-
-## Contributors
-- Your Team Name / Members
-
+- 
 ## License
-MIT License (or your choice)
+MIT License
 
 ---
 
@@ -186,8 +183,5 @@ MIT License (or your choice)
 - 強化地面站 UI
 - 飛行資料視覺化工具
 
-## 貢獻者
-- 你的團隊名稱 / 成員
-
 ## 授權
-MIT License（或依你的需求選擇其他授權）
+MIT License
